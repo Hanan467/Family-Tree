@@ -1,16 +1,3 @@
-/*
-Title : Family Tree
-Section 1
-Group Members     Id 
-
-Bereket Awoke     UGR/9422/14
-Bezawit Getu      UGR/0753/14
-Blen Assefa       UGR/1788/14
-Eskedar Anmut     UGR/3630/14
-Hanan Ansar       UGR/7511/14
-Kidist Shewarega  UGR/2213/14
-*/
-
 % Facts
 male(abebe).
 male(sami).
